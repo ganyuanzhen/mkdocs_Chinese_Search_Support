@@ -1,4 +1,8 @@
-# MkDocs
+# MkDocs with Jieba
+
+带了Jieba 的 MkDocs 以支持中文搜索！
+
+<https://pypi.org/project/mkdocs-zh>
 
 > *Project documentation with Markdown*
 
